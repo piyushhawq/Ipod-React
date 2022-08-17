@@ -2,11 +2,12 @@
 #### Tech stack: React
 Hosted Link :- https://piyushhawq.github.io/mini-ipod/
 
-Normal mode
+Normal mode preview :-
 
 ![Preview  of Ipod](https://raw.githubusercontent.com/piyushhawq/Ipod-React/main/src/assets/images/Normal%20mode%20Mini%20Ipod%20React.png)
 
-Dark mode
+Ater changing theme & wallpaper
+Dark mode preview :-
  
 ![Preview  of Ipod](https://raw.githubusercontent.com/piyushhawq/Ipod-React/main/src/assets/images/Dark%20mode%20Mini%20Ipod%20React%20.png)
 
